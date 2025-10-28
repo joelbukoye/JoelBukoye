@@ -1,8 +1,8 @@
 # 👋 Hi, I'm Joel Bukoye!
 
-### 🧑‍💻 Technical Virtual Assistant | Workflow Automation & Digital Systems Specialist
+### 🧑‍💻 Technical Virtual Assistant | Website Designer | Graphics Designer | CRM & Social Media Manager | Workflow Automation & Digital Systems Specialist
 
-Welcome to my GitHub profile! I am a Technical Virtual Assistant with a strong background in administrative support, workflow automation, and digital systems management. I help businesses simplify operations and improve efficiency through smart use of technology and structured systems.
+Welcome to my GitHub profile! I am a Technical Virtual Assistant with a strong background in administrative support, workflow automation, digital systems management, website design, graphics design, CRM, and social media management. I help businesses simplify operations and improve efficiency through smart use of technology and structured systems.
 
 ---
 
@@ -17,8 +17,11 @@ Experienced in building automated **Google Sheets** dashboards for tracking sale
 ### 🌐 Website Design & Management
 Designed and managed professional websites using **WordPress**, **Elementor**, **Google Analytics**, **SEO tools**, and **DNS management** — improving visibility and user engagement.
 
+- [www.brailconstruction.com](https://www.brailconstruction.com) *(WordPress website)*
+- [www.mobethcouture.com](https://www.mobethcouture.com) *(Google Site)*
+
 ### 📈 Google Business & SEO Optimization
-Set up and optimized **Google Business Profiles**, conducted **SEO audits**, and maintained accurate online visibility for improved customer reach.
+Set up and optimised **Google Business Profiles**, conducted **SEO audits**, and maintained accurate online visibility for improved customer reach.
 
 ### 🔗 Domain & API Integration
 Proficient in **domain management**, **spam protection** (reCAPTCHA, Brute Force), and **API integration** for enhanced site security and performance tracking.
@@ -27,7 +30,7 @@ Proficient in **domain management**, **spam protection** (reCAPTCHA, Brute Force
 Created visually appealing designs and marketing content using **Canva**, **CorelDraw**, **Photoshop**, **VN**, and **CapCut** to maintain consistent brand identity.
 
 ### 📅 Calendar, Email & Document Management
-Organized inboxes, set up labeling systems, and coordinated meetings efficiently using **Gmail**, **Webmail**, and **Google Workspace** tools.
+Organised inboxes, set up labelling systems, and coordinated meetings efficiently using **Gmail**, **Webmail**, and **Google Workspace** tools.
 
 ### 📱 Mobile App Development (AppSheet)
 Developed internal workflow and staff tracking applications using **Google AppSheet**, improving accountability and time management.
@@ -61,6 +64,14 @@ WordPress | Elementor | SEO | Google Analytics | Google Workspace | ClickUp | No
 ### 🖥️ Website Design & Management
 ![Mobeth Couture WordPress Website](8)
 ![Contact Mobeth Couture - Google Maps Integration](9)
+
+### 🗂️ Bitrix24 CRM & Team Collaboration
+![Bitrix24 CRM and Team Collaboration Dashboard](10)
+![Bitrix24 Departmental Flows](12)
+![Bitrix24 Robotic Process Automation](13)
+
+### 🎬 Video Editing & Media Projects
+![Video Editing Project Timeline](11)
 
 ---
 
