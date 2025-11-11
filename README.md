@@ -16,6 +16,7 @@ Experienced in building automated **Google Sheets** dashboards for tracking sale
 
 ### 🌐 Website Design & Management
 Designed and managed professional websites using **WordPress**, **Elementor**, **Google Analytics**, **SEO tools**, and **DNS management** — improving visibility and user engagement.
+![3](https://github.com/user-attachments/assets/6dc99962-d187-4075-b663-23a7d579929a)
 
 - [www.brailconstruction.com](https://www.brailconstruction.com) *(WordPress website)*
 - [www.mobethcouture.com](https://www.mobethcouture.com) *(Google Site)*
